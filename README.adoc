@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MPL-2.0
-// (PMPL-1.0-or-later preferred; MPL-2.0 required for Hex.pm)
+// (MPL-2.0 preferred; MPL-2.0 required for Hex.pm)
 // SPDX-FileCopyrightText: 2026 Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 = k9_ex
 :toc: preamble
@@ -103,7 +103,7 @@ rendered = K9.Renderer.render(component)
 
 == License
 
-MPL-2.0 (required for Hex.pm). PMPL-1.0-or-later is the preferred intent;
+MPL-2.0 (required for Hex.pm). MPL-2.0 is the preferred intent;
 MPL-2.0 is required for the Elixir package ecosystem.
 
 See link:EXPLAINME.adoc[EXPLAINME.adoc] for implementation evidence and caveats.
