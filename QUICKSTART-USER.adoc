@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MPL-2.0
+// Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 // Template: QUICKSTART-USER.adoc — 5-minute path to working software
 // Replace k9_ex, K9_Ex — See README.adoc for details., just run, K9_Ex started successfully. with actuals
 = k9_ex — Quick Start for Users

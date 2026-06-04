@@ -1,6 +1,9 @@
+<!--
+SPDX-License-Identifier: MPL-2.0
+Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+-->
 # TEST-NEEDS — k9_ex
 
-<!-- SPDX-License-Identifier: MPL-2.0 -->
 <!-- (MPL-2.0 preferred; MPL-2.0 required for Hex.pm) -->
 
 ## CRG Grade: B — ACHIEVED 2026-04-04
