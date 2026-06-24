@@ -1,6 +1,6 @@
 # TEST-NEEDS — k9_ex
 
-<!-- SPDX-License-Identifier: MPL-2.0 -->
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 <!-- (MPL-2.0 preferred; MPL-2.0 required for Hex.pm) -->
 
 ## CRG Grade: B — ACHIEVED 2026-04-04

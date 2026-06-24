@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MPL-2.0
+// SPDX-License-Identifier: CC-BY-SA-4.0
 // Template: QUICKSTART-USER.adoc — 5-minute path to working software
 // Replace k9_ex, K9_Ex — See README.adoc for details., just run, K9_Ex started successfully. with actuals
 = k9_ex — Quick Start for Users
